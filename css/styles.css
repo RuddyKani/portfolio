@@ -12,3 +12,9 @@ body{
   border: 2px solid black;
   padding: 2px;
 }
+.projects p a {
+  font-weight: bold;
+}
+.schools p a {
+  font-style: italic;
+}
