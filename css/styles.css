@@ -17,6 +17,7 @@ img{
 }
 body{
   background-color: lightgray;
+  text-align: justify;  
 }
 .box{
   border: 2px;
