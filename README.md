@@ -4,7 +4,7 @@
 ## Description
 This is a web portfolio to showcase my programming work and give a brief description of my background
 ## Setup/Installation Requirements
-Visit  web portfolio by clicking [here](ruddykani.github.io/portfolio/index.html).
+Visit  web portfolio by clicking [here](ruddykani.github.io/portfolio/index.html).  
 The site has a few pages connected via links to some of the projects I have done. Most of the projects are work in progress.
 ## Known Bugs
 No known bugs. Site still in progress as class project
