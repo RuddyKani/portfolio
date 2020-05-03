@@ -17,7 +17,7 @@ img{
 }
 body{
   background-color: lightgray;
-  text-align: justify;  
+  text-align: justify;
 }
 .box{
   border: 2px;
@@ -32,18 +32,6 @@ body{
 }
 .columns{
   width:auto;
-}
-.columnleft {
-  width: 80%;
-  float:none;
-  align-self: flex-start;
-  border: 1px;
-}
-.columnright {
-  width:80%;
-  float: none;
-  align-self: flex-end;
-  border: 1px;
 }
 p{
   text-align: justify;
