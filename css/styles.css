@@ -41,7 +41,8 @@ ul{
   color: blue;
 }
 ol{
-  color:green
+  color:green;
+  font-style: italic;
 }
 p.about{
   border: 2px;
