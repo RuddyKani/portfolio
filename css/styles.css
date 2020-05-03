@@ -1,17 +1,24 @@
 h1{
-  color: blue;
   text-align: center;
+  border-bottom:double;
+  font-style: oblique;
+}
+h3{
+  text-align: left;
+  margin: 1px;
 }
 img{
   float: left;
+  border: 2px;
+  padding: 7px;
 }
 body{
   background-color: lightgray;
 }
 .box{
   border: 2px;
-  padding: 6px;
-  margin: 20px;
+  padding: 4px;
+  margin: 10px;
 }
 .projects p a {
   font-weight: bold;
@@ -33,4 +40,19 @@ body{
   float: none;
   align-self: flex-end;
   border: 1px;
+}
+p{
+  text-align: justify;
+  font-family: sans-serif;
+}
+ul{
+  color: blue;
+}
+ol{
+  color:green
+}
+p.about{
+  border: 2px;
+  padding: 4px;
+  margin: 10px;
 }
